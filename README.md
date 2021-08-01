@@ -15,7 +15,7 @@
 
 <p align="left">
 <a href="https://twitter.com/emredogangun26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Emredogangun" height="30" width="30" /></a>
-<a href= linkedin.com/in/emre-doğangün-055351162/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emre-doğangün-055351162" height="30" width="30" /></a>
+<a href= "https://www.linkedin.com/in/emre-do%C4%9Fang%C3%BCn-055351162/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emre-doğangün-055351162" height="30" width="30" /></a>
 <a href="https://www.instagram.com/emredogangun26/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="emredogangun26" height="30" width="30" /></a>
 <a href="https://emredogangun26.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@emredogangun26" height="30" width="30" /></a>
 </p>
