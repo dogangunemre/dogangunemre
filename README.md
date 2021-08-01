@@ -1,13 +1,9 @@
-### Hi there 👋
 
 <h3 align="left">Hi there 👋</h3>
-<h4 align="left">A passionate software test engineer from Turkey</h4>
 
 <div align="left"> 
  
-👯 I’m looking to collaborate with **other content creators**
-
-💬 Ask me about **Anything**
+👯 I am Assistant Software Test Specialist😎
 
  📫 How to reach me **emredogangun26@gmail.com**
 </div>
