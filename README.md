@@ -3,7 +3,6 @@
 
 <div align="left"> 
 
-  <br />
 👯 I am Assistant Software Test Specialist😎
 
 
