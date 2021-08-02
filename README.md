@@ -4,7 +4,7 @@
 <div align="left"> 
  
 👯 I am Assistant Software Test Specialist😎
-
+Hello, this is <b>Emre Doğangün</b>
 </div>
 <h3 align="left">Connect with me:</h3>
 
