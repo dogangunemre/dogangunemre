@@ -2,9 +2,11 @@
 <h3 align="left">Hi there 👋</h3>
 
 <div align="left"> 
- 
+ Hello, this is <b>Emre Doğangün</b>
+ <br />
 👯 I am Assistant Software Test Specialist😎
-Hello, this is <b>Emre Doğangün</b>
+
+
 </div>
 <h3 align="left">Connect with me:</h3>
 
