@@ -1,5 +1,5 @@
 
-<h3 align="left">Hi 👋, I’m <b>Emre Doğangün</b></h3>
+<h3 align="left">Hi 👋, I’m <b>Emre</b></h3>
 
 <div align="left"> 
 
