@@ -1,9 +1,8 @@
 
-<h3 align="left">Hi there 👋</h3>
+<h3 align="left">Hi 👋, I’m <b>Emre Doğangün</b></h3>
 
 <div align="left"> 
- Hello, this is <b>Emre Doğangün</b>
- <br />
+
   <br />
 👯 I am Assistant Software Test Specialist😎
 
