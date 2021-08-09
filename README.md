@@ -16,6 +16,7 @@
 <a href="mailto:emredogangun26@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="@emredogangun26" height="30" width="30" /></a>
  </p>
 
+<img  alt="GIF" src="https://github.com/Emredogangun/Emredogangun/blob/main/code.gif" width="500" height="320" />
 
 
 <!--
@@ -34,7 +35,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.facebook.com/emredogangun26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="@emredogangun26" height="30" width="30" /></a>
 <a href="https://twitter.com/emredogangun26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Emredogangun" height="30" width="30" /></a>
-<img  alt="GIF" src="https://github.com/Emredogangun/Emredogangun/blob/main/code.gif" width="500" height="320" />
 
 
  📫 How to reach me **emredogangun26@gmail.com**
