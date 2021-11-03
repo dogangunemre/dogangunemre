@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋;My+name+is+Emre+Dogangun.;Nice+to+meet+you.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%00000&lines=Hi+there+👋;My+name+is+Emre+Dogangun.;Nice+to+meet+you.)](https://git.io/typing-svg)
 <div align="left"> 
 
 👯 I am Assistant Software Test Specialist😎
