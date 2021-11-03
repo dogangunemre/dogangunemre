@@ -14,6 +14,8 @@
 <a href="mailto:emredogangun26@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="@emredogangun26" height="30" width="30" /></a>
  <a href="https://dogangunemre.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="@emredogangun26" height="30" width="30" /></a>
  </p>
+ 
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emredogangun&show_icons=true&theme=algolia&count_private=true)](https://bit.ly/2DRJEXJ)
 
 <img  alt="GIF" src="https://github.com/Emredogangun/Emredogangun/blob/main/code.gif" width="500" height="320" />
 
