@@ -1,5 +1,3 @@
-
-<h3 align="left">Hi 👋, I’m <b>Emre</b></h3>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋;My+name+is+Doğukan+Ergezer.;Nice+to+meet+you.)](https://git.io/typing-svg)
 <h4 align="left">A passionate computer engineer from Turkey</h4>
 
