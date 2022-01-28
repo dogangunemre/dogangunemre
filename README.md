@@ -7,7 +7,6 @@
 
 <p align="left">
 <a href= "https://www.linkedin.com/in/emre-do%C4%9Fang%C3%BCn-055351162/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emre-doğangün-055351162" height="30" width="30" /></a>
-<a href="https://www.instagram.com/emredogangun26/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="emredogangun26" height="30" width="30" /></a>
 <a href="https://emredogangun26.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@emredogangun26" height="30" width="30" /></a>
 <a href="mailto:emredogangun26@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="@emredogangun26" height="30" width="30" /></a>
  <a href="https://dogangunemre.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="@emredogangun26" height="30" width="30" /></a>
