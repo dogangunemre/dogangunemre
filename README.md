@@ -12,6 +12,13 @@
  <a href="https://dogangunemre.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="@emredogangun26" height="30" width="30" /></a>
  </p>
  
+
+
+<img  alt="GIF" src="https://github.com/Emredogangun/Emredogangun/blob/main/code.gif" width="500" height="320" />
+
+
+<!--
+
  ## 📈 Github Stats
 
  <a href="https://github.com/Emredogangun/Emredogangun">
@@ -22,10 +29,8 @@
  <img alt="Emre Dogangun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emredogangun&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook&count_private=true" height="192px"/>
  </a>
 
-<img  alt="GIF" src="https://github.com/Emredogangun/Emredogangun/blob/main/code.gif" width="500" height="320" />
 
 
-<!--
 **Emredogangun/Emredogangun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
