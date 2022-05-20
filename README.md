@@ -18,7 +18,7 @@
 
 ![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogangunemre&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogangunemre&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogangunemre&layout=compact)
 <!--
 
  ## 📈 Github Stats
