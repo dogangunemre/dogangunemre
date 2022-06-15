@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Hi+there+%F0%9F%91%8B;My+name+is+Emre+Doğangün.;Nice+to+meet+you.)](https://git.io/typing-svg)
 <div align="left"> 
-👯 I am Software Test Specialist😎
+👯 I am Software Test Engineer😎
 
 </div>
 <h3 align="left">Connect with me:</h3>
