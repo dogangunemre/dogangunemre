@@ -14,16 +14,6 @@
  
 
 
-<img  alt="GIF" src="https://github.com/Emredogangun/Emredogangun/blob/main/code.gif" width="500" height="320" />
-
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogangunemre&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogangunemre&layout=compact)
-<!--
-
-
-
-
 
 **Emredogangun/Emredogangun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
